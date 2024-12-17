@@ -1,5 +1,5 @@
 "use strict";
-let destination = "nowgg.lol/apps/uncube/7074/now.html";
+let destination = "https://nowgg.lol/apps/uncube/7074/now.html";
 const gameframe = document.getElementById("frame");
 
 registerSW()
